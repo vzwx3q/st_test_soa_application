@@ -6,7 +6,8 @@
           <format>dir</format>  
      </formats>  
      <dependencySets>  
-          <dependencySet>  
+          <dependencySet>
+            <useProjectArtifact>false</useProjectArtifact>
                <outputDirectory>/unit/composite</outputDirectory>  
                <includes>  
                     <include>org.my.test.test-soa-project:1.0-SNAPSHOT:test-soa-project-1.0-20160912.182958-1.jar</include>  
