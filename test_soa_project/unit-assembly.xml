@@ -9,7 +9,7 @@
           <dependencySet>  
                <outputDirectory>/unit/composite</outputDirectory>  
                <includes>  
-                    <include>nl.amis.smeetsm.composite:*</include>  
+                    <include>org.my.test:*</include>  
                </includes>  
           </dependencySet>  
      </dependencySets>  
