@@ -9,7 +9,7 @@
           <dependencySet>  
                <outputDirectory>/unit/composite</outputDirectory>  
                <includes>  
-                    <include>org.my.test.test-soa-project:*</include>  
+                    <include>http://172.31.19.23:8081/nexus/content/repositories/snapshots/org/my/test/test-soa-project/1.0-SNAPSHOT/</include>  
                </includes>  
           </dependencySet>  
      </dependencySets>  
